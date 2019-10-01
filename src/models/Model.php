@@ -1,6 +1,6 @@
 <?php
 
-require_once __DIR__.'/../helpers.php';
+namespace App\Models;
 
 abstract class Model {
 

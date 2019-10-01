@@ -1,8 +1,8 @@
 <?php
 
-require __DIR__.'/Controller.php';
-
-require __DIR__.'/../models/FooBarBaz.php';
+namespace App\Controllers;
+use App\Controllers\Controller;
+use App\Models\FooBarBaz;
 
 class RootController extends Controller {
 

@@ -1,0 +1,16 @@
+{
+    "name": "wasthishelpful/my-simple-mvc",
+    "description": "an experiment of creating a PHP framework from scratch",
+    "authors": [
+        {
+            "name": "Rannie Ollit",
+            "email": "einnar82@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}

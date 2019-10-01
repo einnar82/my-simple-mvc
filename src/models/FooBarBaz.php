@@ -1,6 +1,6 @@
 <?php
 
-require __DIR__.'/Model.php';
+namespace App\Models;
 
 class FooBarBaz extends Model {
 
